@@ -1,0 +1,6 @@
+Data Cleaning:
+Checking Missing Data
+Replacing it with Mean And Median
+Replace All the Yes & No with dummy variable
+Deciding X & Y
+Delete the Column which are not Needed.
